@@ -4,7 +4,7 @@ Get full form of any NetD videos. This shell script downloads m3u8 file and than
 
 # example usage
 ```shell
-ash download.sh https://1881381249.dogannet.tv/S10/HLS_VOD/159629_b622/2500/prog_index.m3u8?app=com.netd https://1881381249.dogannet.tv/S10/HLS_VOD/159629_b622/2500 bolum_fragman
+bash download.sh https://1881381249.dogannet.tv/S10/HLS_VOD/159629_b622/2500/prog_index.m3u8?app=com.netd https://1881381249.dogannet.tv/S10/HLS_VOD/159629_b622/2500 bolum_fragman
 ```
 
 
