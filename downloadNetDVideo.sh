@@ -8,10 +8,6 @@ echo "${ts_files_count}"
 
 for (( i = 0; i <= "$ts_files_count-1"; i++ )); do
         wget -O "$i.ts" "$2/prog_index$i.ts?app=com.netd"
-done
-
-
-for (( i = 0; i <= "$ts_files_count-1"; i++ )); do
         ts_files+="$i.ts|"
 done
 
